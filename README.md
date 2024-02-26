@@ -36,6 +36,6 @@
 
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=akshit-a9&show_icons=true&theme=vision-friendly-dark" alt="your github stats"height="220" width="400"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-a9&layout=compact&theme=dark" alt="top languages"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-a9&layout=compact&theme=vision-friendly-dark" alt="top languages"/>
 </p>
 
