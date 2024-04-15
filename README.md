@@ -6,8 +6,9 @@
 </p>
 
 ## ✨ Quick Facts About Me
-- 🔭 Building: A **watchtower app** for Cognizance '24 
-- 🌱 Learning: Frontend App Development
+- 👮‍♂️ Working On : **Authentication using Behavioral Biometrics**
+- 🔭 Last Project: A **watchtower app** for Cognizance '24 
+- 🌱 Learning: Authentication principles
 - 💬 Ask me about: PC Building, Computer Hardware, C, C++
 - 📫 Reach me at: **akshitsharma2002@gmail.com**
 
